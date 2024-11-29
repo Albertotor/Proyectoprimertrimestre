@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Domine:wght@400..700&display=swap');
+
+body{background-image:url(maquinas2.jpg);
+
+
+
+}
+h1{
+
+font-family: Domine, serif;
+color: purple;
+
+}
+h3{
+font-family: Croissant One, serif;
+color: brown;
+}
+
+table{
+    width: 33%; margin: 0 auto; 
+    border: 1px solid brown;
+    border-collapse: collapse; 
+    background-color: rgb(187, 225, 18); 
+    
+    }
+    table, th, td{
+       border: 1px solid rgb(22, 4, 77); 
+       padding: 8px;
+    text-align: center; 
+    }
+a:link{
+color: gold;
+
+}
+    a:visited{
+        color: gainsboro;
+        
+        }
+        a:hover{
+        font-weight: bold;
+        color: red;
+        
+        }
+        a:active{
+        color: green;}

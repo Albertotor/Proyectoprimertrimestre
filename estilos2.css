@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://webklat.s3.amazonaws.com/wp-content/uploads/sites/23/2022/10/31225856/Komatsu-es-garantia-de-calidad-para-comprar-maquinaria-para-la-construccion-Komatsu-Colombia.jpg);
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 900px;
+  }
+  
+  h1 {
+    font-size: 25px;
+    color: rgb(250, 245, 0);
+    font-family: Arial;
+  }
+  
+  label {
+    font-family: Arial;
+    font-size: 18px;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: #fff;
+  }
+  
+  select {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0 20px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  input[type="checkbox"] {
+    margin-top: 10px;
+  }
+  p{
+    color: blue;
+
+
+  }
+ 
